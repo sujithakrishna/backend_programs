@@ -8,7 +8,7 @@ public class List_stack {
 		Stack<String> list =new Stack<>();
 		list.push("SUji");
 		list.push("Pappu");
-		list.push("Arjun");
+		list.push("Pinky");
 		list.push("Ammu");
 		System.out.println("Displaying elements "+list);
 		System.out.println("Top element: "+list.peek());
