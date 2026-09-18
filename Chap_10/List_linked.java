@@ -7,7 +7,7 @@ public class List_linked {
 		LinkedList<String> list=new LinkedList<>();
 		System.out.println("Adding Elements:");
 		list.addFirst("Suji");
-		list.add("Arjun");
+		list.add("Pinky");
 		list.add("Ammu");
 		list.addLast("Pappu");
 		System.out.println("Displaying all elements: "+list);
