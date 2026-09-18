@@ -7,7 +7,7 @@ public class List_vector {
 		Vector<String> list=new Vector<>();
 		list.addElement("Suji");
 		list.addElement("Pappu");
-		list.addElement("Arjun");
+		list.addElement("Pinky");
 		System.out.println("Displating list: "+list);
 		System.out.println("Value at index 1: "+list.elementAt(1));
 		list.removeElementAt(1);
