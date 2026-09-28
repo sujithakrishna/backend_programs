@@ -1,2 +1,2 @@
-Java Programs and summary of topics learnt.
+Java Programs, MySQL queries and summary of topics learnt.
  
